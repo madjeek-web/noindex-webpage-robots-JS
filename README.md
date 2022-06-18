@@ -15,3 +15,6 @@ Or for any other web pages of your choice. This script can be used alone on the 
 JS CODE SCREEN
 
 ![001](https://user-images.githubusercontent.com/83957788/174448613-8d324380-a9d9-43b2-a3f8-c5b70f09638e.jpg)
+
+
+OTHER : https://codebeautify.org/minify-js - JavaScript Minify Online

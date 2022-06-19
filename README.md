@@ -18,3 +18,12 @@ JS CODE SCREEN
 
 
 OTHER : https://codebeautify.org/minify-js - JavaScript Minify Online
+
+___
+
+![madjeek-1200px-og](https://user-images.githubusercontent.com/83957788/174204965-cd246cba-6142-49c4-b722-eee34685e753.jpg)
+
+
+☕☕ BUY ME A COFFEE ☕
+https://www.buymeacoffee.com/madjeek
+
